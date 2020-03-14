@@ -13,6 +13,23 @@ Instalation
 Please make sure the release file is unpacked under a Web-accessible directory. 
 You shall see the following files and directories:
     
-    App_Data /jjj
-    App_Start /kkk
-    Controllers /ооо
+    App_Data        config files
+    App_Start       config files
+    Controllers     controllers of project
+    Scripts         scripts
+    Views           views of project
+    README          this file
+    LISENCE         license of CandyShop
+    UPGRADE         upgrading instructions
+
+Requirements
+------------
+The minimum requirement by CandyShop is that your Web server supports PHP 5.1.0 
+or above. CandyShop has been tested on Windows operating systems.
+
+Please access the following URL to check if your Web server reaches the 
+requirements by CandyShop, assuming "CandyShopPath" is where CandyShop is installed:
+
+    <myLink>
+    
+jj
