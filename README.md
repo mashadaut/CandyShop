@@ -6,9 +6,9 @@ What is it?
 -----------
 **CandyShop** is web application for information support of pastry shops - 
 intermediaries. It is developed in C # in Microsoft Visual Studio using a data 
-model designed in the same environment, as well as using ASP.Net MVC technology.
+model designed in the same environment as well as using ASP.Net MVC technology.
 
-Instalation
+Before installation
 -----------
 Please make sure the release file is unpacked under a Web-accessible directory. 
 You shall see the following files and directories:
@@ -22,6 +22,14 @@ You shall see the following files and directories:
     LISENCE         license of CandyShop
     UPGRADE         upgrading instructions
 
+Installation
+------------
+Please see the file called INSTALL.
+
+Lisense
+-------
+Please see the file called LICENSE.
+
 Requirements
 ------------
 The minimum requirement by CandyShop is that your Web server supports PHP 5.1.0 
@@ -32,4 +40,4 @@ requirements by CandyShop, assuming "CandyShopPath" is where CandyShop is instal
 
     <myLink>
     
-jj
+
