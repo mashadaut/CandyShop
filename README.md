@@ -8,7 +8,7 @@ What is it?
 intermediaries. It is developed in C # in Microsoft Visual Studio using a data 
 model designed in the same environment as well as using ASP.Net MVC technology.
 
-Before installation
+Prerequisites
 -----------
 Please make sure the release file is unpacked under a Web-accessible directory. 
 You shall see the following files and directories:
@@ -21,6 +21,7 @@ You shall see the following files and directories:
     README          this file
     LISENCE         license of CandyShop
     UPGRADE         upgrading instructions
+    INSTALL         instaling file
 
 Installation
 ------------
@@ -40,4 +41,13 @@ requirements by CandyShop, assuming "CandyShopPath" is where CandyShop is instal
 
     <myLink>
     
+Built with
+----------
 
+    * Microsoft Visual Studio
+
+Authors
+-------
+
+    * Mary Daut - _student__of__HSE
+    
