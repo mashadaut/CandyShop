@@ -43,7 +43,7 @@ requirements by CandyShop, assuming "CandyShopPath" is where CandyShop is instal
     
 Built with
 ----------
-* Microsoft Visual Studio
+* Microsoft Visual Studio 2017
 
 Authors
 -------
