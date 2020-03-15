@@ -7,7 +7,7 @@ What is it?
 **CandyShop** is web application for information support of pastry shops - 
 intermediaries. It helps to keep records of employees and residues of raw 
 materials and productsIt is developed in C # in Microsoft Visual Studio 
-using a data model designed in the same environment as well as using 
+2017 using a data model designed in the same environment as well as using 
 ASP.Net MVC technology.
 
 Prerequisites
@@ -43,9 +43,9 @@ Built with
 ----------
 * Microsoft Visual Studio 2017
 
-Authors
+Contacts
 -------
-* Mary Daut - *student of HSE*
+* Mary Daut - *student of HSE* - mvdaut@edu.hse.ru
 
 Lisense
 -------
