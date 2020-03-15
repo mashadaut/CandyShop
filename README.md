@@ -43,11 +43,8 @@ requirements by CandyShop, assuming "CandyShopPath" is where CandyShop is instal
     
 Built with
 ----------
-
-    * Microsoft Visual Studio
+* Microsoft Visual Studio
 
 Authors
 -------
-
-    * Mary Daut - _student__of__HSE
-    
+* Mary Daut - _student_of_HSE
